@@ -1,0 +1,9 @@
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\bin\Debug\CastingAssignment.exe.config
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\bin\Debug\CastingAssignment.exe
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\bin\Debug\CastingAssignment.pdb
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\obj\Debug\CastingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\obj\Debug\CastingAssignment.Form1.resources
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\obj\Debug\CastingAssignment.Properties.Resources.resources
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\obj\Debug\CastingAssignment.csproj.GenerateResource.Cache
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\obj\Debug\CastingAssignment.exe
+C:\Users\timsi\Desktop\Classes\CIS 107\CastingAssignment\CastingAssignment\obj\Debug\CastingAssignment.pdb

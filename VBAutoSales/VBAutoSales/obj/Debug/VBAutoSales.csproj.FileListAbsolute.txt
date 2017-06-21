@@ -1,0 +1,9 @@
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\bin\Debug\VBAutoSales.exe.config
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\bin\Debug\VBAutoSales.exe
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\bin\Debug\VBAutoSales.pdb
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\obj\Debug\VBAutoSales.csprojResolveAssemblyReference.cache
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\obj\Debug\VBAutoSales.frmAutoCenter.resources
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\obj\Debug\VBAutoSales.Properties.Resources.resources
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\obj\Debug\VBAutoSales.csproj.GenerateResource.Cache
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\obj\Debug\VBAutoSales.exe
+C:\Users\timsi\Desktop\Classes\CIS 107\VBAutoSales\VBAutoSales\obj\Debug\VBAutoSales.pdb
